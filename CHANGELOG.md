@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.3](https://github.com/briancaffey/hermes-otel/compare/hermes-otel-v1.18.2...hermes-otel-v1.18.3) (2026-10-04)
+
+
+### Bug Fixes
+
+* **logs:** one enrichment processor for every log sink: exact attribution, no host internals, redaction ([#270](https://github.com/briancaffey/hermes-otel/issues/270)) ([8edc21f](https://github.com/briancaffey/hermes-otel/commit/8edc21f573701100c26926b746d163345b755b15))
+
 ## [1.18.2](https://github.com/briancaffey/hermes-otel/compare/hermes-otel-v1.18.1...hermes-otel-v1.18.2) (2026-10-02)
 
 
